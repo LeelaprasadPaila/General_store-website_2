@@ -1,1 +1,1 @@
-# General_store-websitte
+# General_store-website
